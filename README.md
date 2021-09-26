@@ -35,7 +35,6 @@ The result should be a dashboard with two pages (the application can be single-p
     * <strong>Bonus</strong>: Filter by NAICS Code. Any child elements of a NAICS code should be available for a parent code that’s used to filter.
     * <strong>Bonus</strong>: Filter by Business Structure
     * <strong>Bonus</strong>: Filter by City / State
-    * <strong>Bonus</strong>: Provide a pagination UI control mechanism that lets a user page through company records with different page limit sizes.
   * <strong>Bonus</strong>: Provide a pagination UI control mechanism that lets a user page through company records with different page limit sizes. 
 
 ## Additional Information
