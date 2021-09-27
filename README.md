@@ -2,7 +2,7 @@
 As the next step in the interview process, we’d like you to complete a coding challenge.
 
 ## The Project
-You will be building a basic Company and Information Resources Management (CIRM) Dashboard. There are two JSON files in this project, `companies.json`, and `naics.json`. Companies is a list of companies, like business structure, primary address, naisc_code and other pertinent information about each company.
+You will be building a basic Company and Information Resources Management (CIRM) Dashboard. There are two JSON files in this project, `companies.json`, and `naics.json`. Companies is a list of companies, like business structure, primary address, naics_code and other pertinent information about each company.
 
 NAICS is a list of the North American Industry Classification System (NAICS) codes, with their code title, and description. The NAICS codes are a self selected classification that a company chooses as an industry identifier. These codes form a hierarchal structure depending on the level of detail in classifying the industry. See more here: https://www.census.gov/programs-surveys/economic-census/guidance/understanding-naics.html 
 
