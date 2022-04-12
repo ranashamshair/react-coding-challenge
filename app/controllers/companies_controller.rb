@@ -2,7 +2,6 @@ class CompaniesController < ApplicationController
 
   def index
     respond_to do |format|
-      format.html
       format.json  {
         @companies = Company.includes(:business_structure, :naics_code, :primary_address)
 

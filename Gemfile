@@ -11,6 +11,7 @@ gem 'puma', '~> 5.0'
 gem 'pg'
 
 # Frontend
+gem 'react-rails'
 gem 'sass-rails', '>= 6'
 gem 'uglifier', '>= 1.3.0'
 gem 'turbolinks', '~> 5'
